@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cleardespawn",
+  "name": "Clear Despawn",
+  "description": "Makes dropped items flash when they're about to despawn.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["C4"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
